@@ -33,3 +33,6 @@ Before adding shared module (Faker js called twice) :
 After adding shared module (Faker js called only once) : 
 ![Screenshot_2024-04-24_14-00-12](https://github.com/agus-wesly/mf-shared-deps/assets/98297487/aea13104-7b9b-43b0-9700-4e2aa78ca870)
 
+
+Reference : 
+https://medium.com/ama-tech-blog/mastering-microfrontends-sharing-dependencies-across-apps-e3811b650d7
