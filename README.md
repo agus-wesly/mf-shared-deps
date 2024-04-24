@@ -1,6 +1,6 @@
 ## Microfrontend share dependencies demo
 
-By default if we have same module accross host, that module will be loaded multiple times in the host. To prevent that, we can adjust webpack config settings to only load particular module once.
+By default if we have same dependencies accross app, that dependencies will be loaded multiple times in the host. To prevent that, we can adjust webpack config settings to only load particular dependencies once.
 
 For instance, i have faker-js both in my remote. To load it only once just add this line in the webpack.config.js inside the remote app.
 
